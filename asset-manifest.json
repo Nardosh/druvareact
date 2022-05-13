@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/druvareact/static/css/main.31d6cfe0.css",
+    "main.js": "/druvareact/static/js/main.d0197f56.js",
+    "static/js/787.00287293.chunk.js": "/druvareact/static/js/787.00287293.chunk.js",
+    "index.html": "/druvareact/index.html",
+    "main.d0197f56.js.map": "/druvareact/static/js/main.d0197f56.js.map",
+    "787.00287293.chunk.js.map": "/druvareact/static/js/787.00287293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d0197f56.js"
+  ]
+}
